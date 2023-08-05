@@ -31,6 +31,6 @@ Neste desafio, adquiri conhecimentos em desenvolvimento gráfico em Java, utiliz
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Elias-Moraes?tab=repositories)
 
-linkedin (www.linkedin.com/in/dev-eliasmoraes
+linkedin (www.linkedin.com/in/dev-eliasmoraes)
 
 
