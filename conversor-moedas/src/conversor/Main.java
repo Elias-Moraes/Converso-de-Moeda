@@ -6,6 +6,7 @@ public class Main {
 	public static void main(String[] args) {
 
 		boolean entradaValida = false;
+		@SuppressWarnings("unused")
 		int numero = 0;
 		String valor = "";
 
@@ -17,7 +18,6 @@ public class Main {
 				valor = JOptionPane.showInputDialog(null, "Digite um número:");
 
 				if (valor == null) {
-					// O usuário cancelou a caixa de diálogo
 					System.exit(0);
 				} else {
 					numero = Integer.parseInt(valor);

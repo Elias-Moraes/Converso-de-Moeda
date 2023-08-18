@@ -7,7 +7,7 @@ public class ConversorMoedas {
 	public void realADolar(double valor) {
 		double dolar = valor / 4.85; // USD = 4.85
 		dolar = (double) Math.round(dolar * 100d) / 100;
-		JOptionPane.showMessageDialog(null, "Você tem $ " + dolar + "Dolares");
+		JOptionPane.showMessageDialog(null, "Você tem $ " + dolar + " Dolares");
 
 	}
 
@@ -41,7 +41,7 @@ public class ConversorMoedas {
 	public void dolarAReal(double valor) {
 		double real = valor * 4.85; // USD = 4.85
 		real = (double) Math.round(real * 100d) / 100;
-		JOptionPane.showMessageDialog(null, "Você tem o total de $" + real + "Em Reais");
+		JOptionPane.showMessageDialog(null, "Você tem o total de $" + real + " Em Reais");
 
 	}
 
